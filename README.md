@@ -3,9 +3,9 @@ Pysearch1.0: A search engine for a new era.
 
 **Creators:**
 
-Marc Fieser
-Sera Smith
-Ben Shields
+- Marc Fieser
+- Sera Smith
+- Ben Shields
 
 **URL:**
 
